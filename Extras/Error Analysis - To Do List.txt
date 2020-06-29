@@ -1,0 +1,30 @@
+Thursday
+1. Polishing Curvature is zero - Write a separate theorem
+2. Prove Rate of change of Area / Volume is linear
+
+2. Generate Example 4 for A posteriori Estimation - Local Refinement
+
+
+Friday
+4. Add Example 1 and 2 to Theorem on Convergence
+5. Add Example 3 and 4 to A Posteriori Estimation Theorem
+
+Saturday
+6. Write AW section
+7. Write Error Section and Background
+
+Sunday
+8. Write Introduction
+9.Write Conclusion
+10. Write Abstract
+
+Monday
+11. Proof Read and Send out draft
+12. Add 3D convergence Example (Sphere and Cylinder)
+
+Tuesday
+13. Add 3D A Posterior Example (if possible)
+
+Wednesday
+14. Verify second order SSA using Boundary equation
+15. Proof Read
